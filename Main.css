@@ -1,0 +1,16 @@
+
+
+
+body{
+    background: black;
+    color:greenyellow;
+    font-family: Arial,serif;
+
+}
+
+/*Soulignement et coloration titre*/
+h1{
+    color:red;
+    text-decoration: underline
+
+}
